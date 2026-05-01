@@ -4,14 +4,11 @@
 
 # Hi, I'm Châu Đình Châu Ái 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=I+build+developer+tools+that+feel+simple.;TypeScript+%E2%80%A2+Bun+%E2%80%A2+VS+Code+%E2%80%A2+APIs;Simple+for+life+%E2%80%94+Ship+useful+things.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=250&center=true&vCenter=true&random=true&width=435&lines=AI++builder+%26+Full+stack+developer+;bunx+codex2claudecode;npm+i+%40alvin0%2Fhttp-driver;Copilot+proxy+Cloudflare)](https://git.io/typing-svg)
 
 <p>
   <a href="https://github.com/alvin0">
     <img src="https://img.shields.io/badge/GitHub-alvin0-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://alvindev.herokuapp.com/">
-    <img src="https://img.shields.io/badge/Website-alvindev-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=alvin0&style=for-the-badge&color=blueviolet" />
 </p>
@@ -45,8 +42,8 @@ I enjoy turning complex developer workflows into simple, fast, and useful tools.
 Name      : Châu Đình Châu Ái
 Username  : alvin0
 Location  : Viet Nam
-Focus     : Developer Tools
-Style     : Simple for life
+Focus     : Full stack developer
+Style     : Simple for life 
 ````
 
 > “Make it simple. Make it useful. Make it work.”
@@ -65,49 +62,3 @@ Style     : Simple for life
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=alvin0\&theme=algolia\&no-frame=true\&no-bg=true\&margin-w=8\&row=1\&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alvin0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvin0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=alvin0&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvin0&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting 👋
-
-**Simple for life — build useful things.**
-
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving\&height=120\&section=footer\&color=0:8A2BE2,50:1F6FEB,100:0D1117)
