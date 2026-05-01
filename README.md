@@ -67,28 +67,6 @@ Style     : Simple for life
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/alvin0/codex2claudecode">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alvin0&repo=codex2claudecode&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/alvin0/redis-model">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alvin0&repo=redis-model&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-<a href="https://github.com/alvin0/database-json-laravel">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alvin0&repo=database-json-laravel&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/alvin0/copilot-proxy-clouflare">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alvin0&repo=copilot-proxy-clouflare&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -121,33 +99,6 @@ Style     : Simple for life
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvin0&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvin0/alvin0/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvin0/alvin0/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/alvin0/alvin0/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 📌 Full GitHub Metrics
-
-<details open>
-<summary><b>Click to view detailed metrics</b></summary>
-
-<br/>
-
-<img src="/github-metrics.svg" alt="GitHub Metrics" width="100%" />
-
-</details>
 
 ---
 
